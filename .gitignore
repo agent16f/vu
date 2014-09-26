@@ -1,6 +1,6 @@
 /build/
 /.deps/
-/meta-*/
+!/meta-*/
 !/meta-bsp/
 !/meta-openvuplus/
 /openembedded-core/
